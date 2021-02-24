@@ -20,7 +20,7 @@ body{
 }
 .settings{
   position: relative;
-  left: 85%;
+  left: 80%;
   height: 43px;
   width: 43px;
   position: absolute;
@@ -44,23 +44,12 @@ body{
   background-color: white;
 }
 
-.bola {
-  border-radius: 50%;
-  display: inline-block;
-  height: 100px;
-  width: 100px;
-  border: 2px solid #000000;
-  background-color: rgb(158, 158, 158);
-  flex: 1;
-  border: 2px solid rgb(0, 0, 0);
-}
-
 .bola-1 {
   border-radius: 50%;
   display: inline-block;
   height: 100px;
   width: 100px;
-  border: 2px solid #000000;
+  border: 2px solid #ff0000;
   background-color: rgb(158, 158, 158);
 }
 
@@ -69,7 +58,7 @@ body{
   display: inline-block;
   height: 100px;
   width: 100px;
-  border: 2px solid #000000;
+  border: 2px solid #2bff00;
   background-color: rgb(158, 158, 158);
 }
 
@@ -78,26 +67,60 @@ body{
   display: inline-block;
   height: 100px;
   width: 100px;
-  border: 2px solid #000000;
+  border: 2px solid #2f00ff;
   background-color: rgb(158, 158, 158);
+}
+
+.bola-4 {
+  border-radius: 50%;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border: 2px solid #eeff00;
+  background-color: rgb(158, 158, 158);
+}
+
+.B1{
+
+}
+
+.B2{
+  position: relative;
+  left: 70%;
+  height: 43px;
+  width: 43px;
+}
+
+.B3{
+  
+}
+
+.B4{
+  position: relative;
+  left: 70%;
+  height: 43px;
+  width: 43px;
 }
 
 /*FIM DO HEADER 2*/
 .header-3{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 10px;
   width: 100%;
-  background-color:white;
-  position: fixed
+  background-color: white;
+  margin-bottom: 50px;
 }
 
 .linha{ 
   border: 1px solid #000000;
-  margin-top: 50px;
-  width: 390px;
 }
 
 .text-container-1{
   margin-bottom: 10px;
   text-decoration-color: black;
+  text-align: left;
 }
 
 .text-1{
@@ -143,7 +166,6 @@ body{
   color: #000000;
   position: fixed
 }
-
 
 .images-1{
   align-items: left;
