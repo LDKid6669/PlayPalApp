@@ -3,7 +3,7 @@ body{
     height:  auto;
 }
 
-.main-1{
+.main{
     margin: 0 auto;
     width: auto;
     position: fixed;
@@ -23,8 +23,6 @@ body{
   left: 80%;
   height: 43px;
   width: 43px;
-  position: absolute;
-  background-color: white;
 }
 
 .text-container{
@@ -49,7 +47,8 @@ body{
   display: inline-block;
   height: 100px;
   width: 100px;
-  border: 2px solid #ff0000;
+  width: 100px;
+  border: 2px solid #000000;
   background-color: rgb(158, 158, 158);
 }
 
@@ -58,7 +57,8 @@ body{
   display: inline-block;
   height: 100px;
   width: 100px;
-  border: 2px solid #2bff00;
+  width: 100px;
+  border: 2px solid #000000;
   background-color: rgb(158, 158, 158);
 }
 
@@ -67,7 +67,8 @@ body{
   display: inline-block;
   height: 100px;
   width: 100px;
-  border: 2px solid #2f00ff;
+  width: 100px;
+  border: 2px solid #000000;
   background-color: rgb(158, 158, 158);
 }
 
@@ -76,31 +77,72 @@ body{
   display: inline-block;
   height: 100px;
   width: 100px;
-  border: 2px solid #eeff00;
+  width: 100px;
+  border: 2px solid #000000;
+  background-color: rgb(158, 158, 158);
+}
+.bola-5{
+  border-radius: 50%;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  width: 100px;
+  border: 2px solid #000000;
+  background-color: rgb(158, 158, 158);
+}
+.bola-6{
+  border-radius: 50%;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border: 2px solid #000000;
   background-color: rgb(158, 158, 158);
 }
 
 .B1{
-
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 70%;
 }
 
 .B2{
   position: relative;
-  left: 70%;
-  height: 43px;
-  width: 43px;
+  width: 100px;
+  height: 100px;
+  top: -95px;
 }
 
 .B3{
-  
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 35%;
+  top: -100px;
 }
-
 .B4{
   position: relative;
-  left: 70%;
-  height: 43px;
-  width: 43px;
+  width: 100px;
+  height: 100px;
+  top:-95px ;
 }
+
+.B5{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 70%;
+  top: -200px
+}
+
+.B6{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 35%;
+  top: -200px;
+}
+
 
 /*FIM DO HEADER 2*/
 .header-3{
