@@ -23,7 +23,8 @@ body{
   left: 85%;
   height: 43px;
   width: 43px;
-  position: fixed;
+  position: absolute;
+  background-color: white;
 }
 
 .text-container{
@@ -39,6 +40,10 @@ body{
   background-color:white;
 }
 
+.Bolas-fotos{
+  background-color: white;
+}
+
 .bola {
   border-radius: 50%;
   display: inline-block;
@@ -48,7 +53,10 @@ body{
   background-color: gray;
   margin-top: 50px;
   margin-left: 5px;
+  flex: 1;
+  border: 2px solid black;
 }
+
 .bola-1 {
   border-radius: 50%;
   display: inline-block;
@@ -57,8 +65,8 @@ body{
   border: 2px solid #000000;
   background-color: gray;
   margin-left: 65%;
-  position: absolute;
 }
+
 .bola-2 {
   border-radius: 50%;
   display: inline-block;
@@ -67,6 +75,7 @@ body{
   border: 2px solid #000000;
   background-color: gray;
 }
+
 .bola-3 {
   border-radius: 50%;
   display: inline-block;
@@ -169,30 +178,31 @@ body{
   background-color:white;
 }
 
-.bloco-1 {
-  border-radius: 7.5%;
-  display: inline-block;
-  height: 220px;
-  width: 140px;
-  border: 2px solid #000000;
-  margin-top: 50px;
-  margin-left: 5px;
+.flex-container {
+  display: flex;
 }
-.bloco-2 {
-  border-radius: 7.5%;
+
+.flex-child {
   display: inline-block;
-  height: 220px;
+  flex: 1;
+  border: 2px solid black;
+  border-radius: 6.5%;
   width: 140px;
-  border: 2px solid #000000;
-  margin-top: 10px;
-  margin-left: 5px;
+  height: 250px;
+}  
+
+.flex-child:first-child {
+  margin-right: 10px;
+} 
+.foto1{
+  border-top-left-radius:6.5%;
+  border-top-right-radius:6.5%; 
 }
-.bloco-3 {
-  border-radius: 7.5%;
-  display: inline-block;
-  height: 220px;
-  width: 140px;
-  border: 2px solid #000000;
-  margin-top: 10px;
-  margin-left: 5px;
+.foto2{
+  border-top-left-radius:6.5%;
+  border-top-right-radius:6.5%; 
+}
+.foto3{
+  border-top-left-radius:6.5%;
+  border-top-right-radius:6.5%; 
 }
