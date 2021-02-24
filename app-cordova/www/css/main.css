@@ -1,0 +1,269 @@
+body{
+    width: auto;
+    height:  auto;
+}
+
+.main{
+    margin: 0 auto;
+    width: auto;
+    position: fixed;
+}
+
+.header-1{
+    width: 100%;
+    position: fixed;
+}
+
+.seetings ul li{
+    list-style: none;
+    float: left;
+}
+.settings{
+  position: relative;
+  left: 80%;
+  height: 43px;
+  width: 43px;
+}
+
+.text-container{
+  width:50%;
+  position: absolute;
+  font-size: 40px;
+  text-align: justify;
+  background-color: white;
+}
+/*FIM DO HEADER 1*/
+.header-2{
+  width: 100%;
+  background-color:white;
+}
+
+.Bolas-fotos{
+  background-color: white;
+}
+
+.bola-1 {
+  border-radius: 50%;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  width: 100px;
+  border: 2px solid #000000;
+  background-color: rgb(158, 158, 158);
+}
+
+.bola-2 {
+  border-radius: 50%;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  width: 100px;
+  border: 2px solid #000000;
+  background-color: rgb(158, 158, 158);
+}
+
+.bola-3 {
+  border-radius: 50%;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  width: 100px;
+  border: 2px solid #000000;
+  background-color: rgb(158, 158, 158);
+}
+
+.bola-4 {
+  border-radius: 50%;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  width: 100px;
+  border: 2px solid #000000;
+  background-color: rgb(158, 158, 158);
+}
+.bola-5{
+  border-radius: 50%;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  width: 100px;
+  border: 2px solid #000000;
+  background-color: rgb(158, 158, 158);
+}
+.bola-6{
+  border-radius: 50%;
+  display: inline-block;
+  height: 100px;
+  width: 100px;
+  border: 2px solid #000000;
+  background-color: rgb(158, 158, 158);
+}
+
+.B1{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 70%;
+}
+
+.B2{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  top: -95px;
+}
+
+.B3{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 35%;
+  top: -100px;
+}
+.B4{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  top:-95px ;
+}
+
+.B5{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 70%;
+  top: -200px
+}
+
+.B6{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 35%;
+  top: -200px;
+}
+
+
+/*FIM DO HEADER 2*/
+.header-3{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 10px;
+  width: 100%;
+  background-color: white;
+  margin-bottom: 50px;
+}
+
+.linha{ 
+  border: 1px solid #000000;
+}
+
+.text-container-1{
+  margin-bottom: 10px;
+  text-decoration-color: black;
+  text-align: left;
+}
+
+.text-1{
+  text-align: left;
+  font-size: 13.50px;
+  margin-left: 11px;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+}
+.text-2{
+  margin-left: 83px;
+  margin-top: 20px;
+  font-size: 13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+}
+.text-3{
+  text-align: center;
+  margin-left: 170px;
+  margin-top: 20px;
+  font-size:13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+}
+.text-4{
+  margin-left: 239px;
+  margin-top: 20px;
+  font-size: 13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+}
+.text-5{
+  text-align: right;
+  margin-left: 313px;
+  margin-top: 20px;
+  font-size: 13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed
+}
+
+.images-1{
+  align-items: left;
+  margin-left: 29px;
+  position: fixed;
+}
+.images-2{
+  margin-left: 105px;
+  position: fixed;
+}
+.images-3{
+  margin-left: 186px;
+  position: fixed;
+}
+.images-4{
+  margin-left: 255px;
+  position: fixed;
+
+}
+.images-5{
+  margin-left: 320px;
+  position: fixed;
+}
+
+/*FIM DO HEADER 3*/
+
+.header-4{
+  width: 100%;
+  background-color:white;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-child {
+  display: inline-block;
+  flex: 1;
+  border: 2px solid black;
+  border-radius: 6.5%;
+  width: 140px;
+  height: 250px;
+}  
+
+.flex-child:first-child {
+  margin-right: 10px;
+} 
+.foto1{
+  border-top-left-radius:6.5%;
+  border-top-right-radius:6.5%; 
+}
+.foto2{
+  border-top-left-radius:6.5%;
+  border-top-right-radius:6.5%; 
+}
+.foto3{
+  border-top-left-radius:6.5%;
+  border-top-right-radius:6.5%; 
+}
