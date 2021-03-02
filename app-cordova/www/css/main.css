@@ -34,7 +34,9 @@ body{
   text-align: justify;
   background-color:white;
 }
-/*FIM DO HEADER 1*/
+
+/*FIM DO HEADER 1*/ /*FIM DO HEADER 1*/ /*FIM DO HEADER 1*/ /*FIM DO HEADER 1*/
+
 .header-2{
   width: 100%;
   background-color:white;
@@ -343,7 +345,7 @@ body{
   border-radius: 5px;
 }
 
-/*FIM DO HEADER 2*/
+/*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/
 .header-3{
   position: fixed;
   left: 0;
@@ -427,7 +429,6 @@ body{
   margin-left: 255px;
   position: fixed;
   background-color: transparent;
-
 }
 .images-5{
   margin-left: 320px;
@@ -435,7 +436,7 @@ body{
   background-color: transparent;
 }
 
-/*FIM DO HEADER 3*/
+/*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/
 
 .header-4{
   width: 100%;
@@ -538,7 +539,7 @@ body{
   top: 111.5%;
 }
 
-/*FIM DO HEADER 4*/
+/*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/
 
 .textmeetings{
   margin-bottom: 10px;
@@ -653,9 +654,9 @@ body{
   bottom: 44.5%;
 }
 
-/*FIM DO HEADER 5*/
+/*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/
 
-.message-1{
+.bloco-message-1{
   flex: 1;
   position: absolute;
   border: 2px solid transparent;
@@ -665,7 +666,7 @@ body{
   top: 95px;
 }
 
-.message-2{
+.bloco-message-2{
   flex: 1;
   position: absolute;
   border: 2px solid transparent;
@@ -675,7 +676,7 @@ body{
   top: 190px;
 }
 
-.message-3{
+.bloco-message-3{
   flex: 1;
   position: absolute;
   border: 2px solid transparent;
@@ -686,7 +687,7 @@ body{
 }
 
 
-.fotoMassage-1{
+.bola-foto-Massage-1{
   border-radius: 50%;
   display: inline-block;
   height: 68px;
@@ -694,12 +695,12 @@ body{
   border: 2px solid black;
   background-color: rgb(190, 190, 190);
 }
-.fotoMassage1{
+.bola-foto-Massage-1{
   position: relative;
   top: 87px;
 }
 
-.fotoMassage-2{
+.bola-foto-Massage-2{
   border-radius: 50%;
   display: inline-block;
   height: 68px;
@@ -707,12 +708,13 @@ body{
   border: 2px solid black;
   background-color: rgb(190, 190, 190);
 }
-.fotoMassage2{
-  position: relative;
-  top: 106px;
+.bola-foto-Massage-2{
+  position: absolute;
+  top: 190px;
+  left: 2%;
 }
 
-.fotoMassage-3{
+.bola-foto-Massage-3{
   border-radius: 50%;
   display: inline-block;
   height: 68px;
@@ -720,11 +722,11 @@ body{
   border: 2px solid black;
   background-color: rgb(190, 190, 190);
 }
-.fotoMassage3{
-  position: relative;
-  top: 125px;
+.bola-foto-Massage-3{
+  position: absolute;
+  top: 287px;
+  left: 2%;
 }
-
 
 .textMessage1{
   position: absolute;
@@ -771,3 +773,311 @@ body{
   left: 80px;
 }
 
+/*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/
+
+.blocoMore-1 {
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+
+.BlocoMore{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 130px;
+}
+
+.blocoMore-2{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+.BlocoMore2{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 130px;
+}
+
+.blocoMore-3{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+ border: 2px solid transparent;
+}
+
+.BlocoMore3{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 130px;
+}
+
+.blocoMore-4{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+.BlocoMore4{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 195px;
+}
+
+.blocoMore-5{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+
+.BlocoMore5{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 195px;
+}
+
+.blocoMore-6{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+
+.BlocoMore6{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 255px;
+}
+
+.blocoMore-7{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+
+.BlocoMore7{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 255px;
+}
+
+.blocoMore-8{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+
+.BlocoMore8{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 255px;
+}
+
+
+
+.blocoMoreFoto-1{
+  border-radius: 50%;
+  display: inline-block;
+  width: 78px;
+  height: 78px;
+  border: 2px solid #e6e5e5;
+  background-color: rgb(190, 190, 190);
+  position: fixed
+}
+.BlocoMore-foto{
+  position: relative;
+  width: 78px;
+  height: 78px;
+  bottom: 480px;
+}
+
+.BlocoMoreText{
+  position: absolute;
+  border: 1px solid black;
+  width: 32.3%;
+  border-radius: 5px;
+  left: 24%;
+  top: 40px;
+}
+
+.setaDireita-1{
+  position: absolute;
+  left: 90%;
+  top: 159px;
+}
+.setaDireita-2{
+  position: absolute;
+  left: 90%;
+  top: 217px;
+}
+.setaDireita-3{
+  position: absolute;
+  left: 90%;
+  top: 281px;
+}
+.setaDireita-4{
+  position: absolute;
+  left: 90%;
+  top: 402px;
+}
+.setaDireita-5{
+  position: absolute;
+  left: 90%;
+  top: 462px;
+}
+.setaDireita-6{
+  position: absolute;
+  left: 90%;
+  top: 586px;
+}
+.setaDireita-7{
+  position: absolute;
+  left: 90%;
+  top: 647px;
+}
+.setaDireita-8{
+  position: absolute;
+  left: 90%;
+  top: 708px;
+}
+/*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/
+
+.textMore1{
+  text-align: left;
+  font-size: 14px;
+  margin-left: 5px;
+  top: 117px;
+  text-decoration: none;
+  color: #000000;
+  position: absolute; 
+}
+
+.textMore2{
+  text-align: left;
+  font-size: 14px;
+  margin-left: 5px;
+  top: 355px;
+  text-decoration: none;
+  color: #000000;
+  position: absolute; 
+}
+
+.textMore3{
+  text-align: left;
+  font-size: 14px;
+  margin-left: 5px;
+  top: 540px;
+  text-decoration: none;
+  color: #000000;
+  position: absolute; 
+}
+
+.Profile{
+  margin-left: 3%;
+  font-size: 25px;
+  top: 157px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.Payments{
+  margin-left: 3%;
+  font-size: 25px;
+  top: 217px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.Notifications{
+  margin-left: 3%;
+  font-size: 25px;
+  top: 277px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.Saved{
+  margin-left: 3%;
+  font-size: 25px;
+  top: 401px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.My-experiences{
+  margin-left: 3%;
+  font-size: 25px;
+  top: 461px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.How-it-works{
+  margin-left: 3%;
+  font-size: 25px;
+  top: 585px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.Security{
+  margin-left: 3%;
+  font-size: 25px;
+  top: 645px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.Contact-us{
+  margin-left: 3%;
+  font-size: 25px;
+  top: 707px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+/*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/
