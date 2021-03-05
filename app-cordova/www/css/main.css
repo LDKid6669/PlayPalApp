@@ -28,7 +28,7 @@ body{
 }
 
 .text-container{
-  width:50%;
+  width:100%;
   position: absolute;
   font-size: 40px;
   text-align: justify;
@@ -39,7 +39,6 @@ body{
 
 .header-2{
   width: 100%;
-  background-color:white;
 }
 
 .Bolas-fotos{
@@ -53,9 +52,8 @@ body{
   width: 100px;
   width: 100px;
   border: 2px solid #000000;
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(168, 168, 168);
 }
-
 .bola-2 {
   border-radius: 50%;
   display: inline-block;
@@ -63,9 +61,8 @@ body{
   width: 100px;
   width: 100px;
   border: 2px solid #000000;
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(168, 168, 168);
 }
-
 .bola-3 {
   border-radius: 50%;
   display: inline-block;
@@ -73,9 +70,8 @@ body{
   width: 100px;
   width: 100px;
   border: 2px solid #000000;
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(168, 168, 168);
 }
-
 .bola-4 {
   border-radius: 50%;
   display: inline-block;
@@ -83,7 +79,7 @@ body{
   width: 100px;
   width: 100px;
   border: 2px solid #000000;
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(168, 168, 168);
 }
 .bola-5{
   border-radius: 50%;
@@ -92,7 +88,7 @@ body{
   width: 100px;
   width: 100px;
   border: 2px solid #000000;
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(168, 168, 168);
 }
 .bola-6{
   border-radius: 50%;
@@ -100,7 +96,7 @@ body{
   height: 100px;
   width: 100px;
   border: 2px solid #000000;
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(168, 168, 168);
 }
 .bola-7{
   border-radius: 50%;
@@ -108,7 +104,7 @@ body{
   height: 100px;
   width: 100px;
   border: 2px solid #000000;
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(168, 168, 168);
 }
 .bola-8{
   border-radius: 50%;
@@ -116,7 +112,7 @@ body{
   height: 100px;
   width: 100px;
   border: 2px solid black;
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(168, 168, 168);
 }
 .bola-9{
   border-radius: 50%;
@@ -124,7 +120,7 @@ body{
   height: 100px;
   width: 100px;
   border: 2px solid rgb(0, 0, 0);
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(168, 168, 168);
 }
 .bola-10{
   border-radius: 50%;
@@ -132,7 +128,7 @@ body{
   height: 100px;
   width: 100px;
   border: 2px solid rgb(0, 0, 0);
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(168, 168, 168);
 }
 .bola-11{
   border-radius: 50%;
@@ -140,7 +136,7 @@ body{
   height: 100px;
   width: 100px;
   border: 2px solid #000000;
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(168, 168, 168);
 }
 .bola-12{
   border-radius: 50%;
@@ -148,204 +144,229 @@ body{
   height: 100px;
   width: 100px;
   border: 2px solid #000000;
-  background-color: rgb(190, 190, 190);
+  background-color: rgb(168, 168, 168);
 }
 
 .B1{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
   left: 70%;
   top: 5px;
 }
 
 .B2{
   position: relative;
-  width: 100px;
-  height: 100px;
-  top: -95px;
+  width: 110px;
+  height: 110px;
+  top: -105px;
 }
 
 .B3{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
   left: 35%;
-  top: -100px;
+  top: -150px;
 }
+
 .B4{
   position: relative;
-  width: 100px;
-  height: 100px;
-  top:-95px ;
+  width: 110px;
+  height: 110px;
+  top:-190px ;
 }
 
 .B5{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
   left: 70%;
-  top: -200px
+  top: -300px
 }
 
 .B6{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
   left: 35%;
-  top: -200px;
+  top: -340px;
 }
 
 .B7{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
   left: 70%;
-  top:-200px ;
+  top:-385px ;
 }
 
 .B8{
   position: relative;
-  width: 100px;
-  height: 100px;
-  top: -300px;
+  width: 110px;
+  height: 110px;
+  top: -495px;
 }
 
 .B9{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
   left: 35%;
-  top: -300px;
+  top: -530px;
 }
+
 .B10{
   position: relative;
-  width: 100px;
-  height: 100px;
-  top: -300px;
+  width: 110px;
+  height: 110px;
+  top: -575px;
 }
 
 .B11{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
   left: 70%;
-  top: -400px
+  top: -685px
 }
 
 .B12{
   position: relative;
-  width: 100px;
-  height: 100px;
+  width: 110px;
+  height: 110px;
   left: 35%;
-  top: -400px;
+  top: -730px;
+}
+
+.fotosbolas1{
+  border-radius: 50%;
+}
+
+.fotosbolas2{
+  border-radius: 50%;
+}
+
+.fotosbolas3{
+  border-radius: 50%;
+}
+
+.fotosbolas4{
+  border-radius: 50%;
+}
+
+.fotosbolas5{
+  border-radius: 50%;
+}
+
+.fotosbolas6{
+  border-radius: 50%;
+  position: absolute;
+  top: 1%;
+  left: 2px;
+}
+
+.fotosbolas7{
+  border-radius: 50%;
+}
+
+.fotosbolas8{
+  border-radius: 50%;
+}
+
+.fotosbolas9{
+  border-radius: 50%;
 }
 
 .text1{
   position: relative;
-  border: 1px solid black;
-  top: -1088px;
+  top: -1210px;
   width: 29.8%;
-  border-radius: 5px;
+  left: 7%;
 }
 
 .text2{
   position: relative;
-  border: 1px solid black;
-  top: -1111px;
-  left: 69%;
+  top: -1230px;
+  left: 75%;
   width: 29.8%;
-  border-radius: 5px;
 }
 
 .text3{
   position: relative;
-  border: 1px solid black;
-  top: -1040px;
+  top: -1180px;
   width: 29.8%;
-  left: 34.5%;
-  border-radius: 5px;
+  left: 41%;
 }
 
 .text4{
   position: relative;
-  border: 1px solid black;
-  top: -957px;
+  top: -1130px;
   width: 29.8%;
-  border-radius: 5px;
+  left: 6%;
 }
 
 .text5{
   position: relative;
-  border: 1px solid black;
-  top: -986px;
-  left: 69%;
+  top: -1147px;
+  left: 76.5%;
   width: 29.8%;
-  border-radius: 5px;
+
 }
 
 .text6{
   position: relative;
-  border: 1px solid black;
-  top: -909px;
-  left: 34.5%;
+  top: -1097px;
+  left: 39.5%;
   width: 29.8%;
-  border-radius: 5px;
+
 }
 
 .text7{
   position: relative;
-  border: 1px solid black;
-  top: -832px;
+  top: -1050px;
   width: 29.8%;
-  border-radius: 5px;
+  left: 6%;
 }
 
 .text8{
   position: relative;
-  border: 1px solid black;
-  top: -855px;
-  left: 69%;
+  top: -1070px;
+  left: 75.5%;
   width: 29.8%;
-  border-radius: 5px;
 }
 
 .text9{
   position: relative;
-  border: 1px solid black;
-  top: -778px;
-  left: 34.5%;
+  top: -1010px;
+  left: 40.5%;
   width: 29.8%;
-  border-radius: 5px;
 }
 
 .text10{
   position: relative;
-  border: 1px solid black;
-  top: -701px;
+  top: -965px;
   width: 29.8%;
-  border-radius: 5px;
+  left: 7.5%;
 }
 
 .text11{
   position: relative;
-  border: 1px solid black;
-  top: -724px;
-  left: 69%;
+  top: -985px;
+  left: 75%;
   width: 29.8%;
-  border-radius: 5px;
 }
 
 .text12{
   position: relative;
-  border: 1px solid black;
-  top: -647px;
-  left: 34.5%;
+  top: -935px;
+  left: 41%;
   width: 29.8%;
-  border-radius: 5px;
 }
 
 /*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/
+/*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/
+
 .header-3{
   position: fixed;
   left: 0;
@@ -437,6 +458,7 @@ body{
 }
 
 /*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/
+/*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/
 
 .header-4{
   width: 100%;
@@ -509,7 +531,6 @@ body{
   left: 41%;
   bottom: 57.5%;
 }
-
 .guardar-2{
   position: absolute;
   left: 90%;
@@ -520,26 +541,105 @@ body{
   left: 41%;
   bottom: 21.5%;
 }
-
 .guardar-4{
   position: absolute;
   left: 90%;
   bottom: 21.5%;
 }
 
-.guardar-5{
+.estrela-1{
   position: absolute;
-  left: 41%;
-  top: 111.5%;
+  left: 4%;
+  top: 295px;
+}
+.estrela-2{
+  position: absolute;
+  left: 53.5%;
+  top: 295px;
+}
+.estrela-3{
+  position: absolute;
+  left: 4%;
+  top: 585px;
+}
+.estrela-4{
+  position: absolute;
+  left: 53.5%;
+  top: 585px;
 }
 
-.guardar-6{
+
+.ExperiencesText1{
   position: absolute;
-  left: 90%;
-  top: 111.5%;
+  left: 4%;
+  top: 240px;
 }
+.ExperiencesText2{
+  position: absolute;
+  left: 53.5%;
+  top: 240px;
+}
+.ExperiencesText3{
+  position: absolute;
+  left: 4%;
+  top: 530px;
+}
+.ExperiencesText4{
+  position: absolute;
+  left: 53.5%;
+  top: 530px;
+}
+
+
+.ExperiencesText5{
+  position: absolute;
+  left: 4%;
+  top: 325px;
+}
+.ExperiencesText6{
+  position: absolute;
+  left: 53.5%;
+  top: 325px;
+}
+.ExperiencesText7{
+  position: absolute;
+  left: 4%;
+  top: 617px;
+}
+.ExperiencesText8{
+  position: absolute;
+  left: 53.5%;
+  top: 617px;
+}
+
+
+.ExperiencesText9{
+  position: absolute;
+  left: 10.5%;
+  top: 295px;
+}
+.ExperiencesText10{
+  position: absolute;
+  left: 60%;
+  top: 295px;
+}
+.ExperiencesText11{
+  position: absolute;
+  left: 10.5%;
+  top: 585px;
+}
+.ExperiencesText12{
+  position: absolute;
+  left: 60%;
+  top: 585px;
+}
+
+
+
 
 /*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/
+/*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/
+
 
 .textmeetings{
   margin-bottom: 10px;
@@ -636,6 +736,44 @@ body{
   top: 402px;
 }
 
+
+.textM7{
+  position: absolute;
+  top: 168px;
+  left: 23%;
+}
+.textM8{
+  position: absolute;
+  top: 288px;
+  left: 23%;
+}
+.textM9{
+  position: absolute;
+  top: 411px;
+  left: 23%;
+}
+
+
+.textM10{
+  position: absolute;
+  left: 28.5%;
+  top: 207px;
+  font-size: 14px;
+}
+.textM11{
+  position: absolute;
+  left: 28.5%;
+  top: 327px;
+  font-size: 14px;
+}
+.textM12{
+  position: absolute;
+  left: 28.5%;
+  top: 449px;
+  font-size: 14px;
+}
+
+
 .seta-1{
   position: absolute;
   left: 90%;
@@ -654,7 +792,32 @@ body{
   bottom: 44.5%;
 }
 
+
+.maps-1{
+  position: absolute;
+  left: 23%;
+  background-color: transparent;
+}
+.maps-2{
+  position: absolute;
+  left: 23%;
+  top: 322px;
+  background-color: transparent;
+}
+.maps-3{
+  position: absolute;
+  left: 23%;
+  top: 445px;
+  background-color: transparent;
+}
+
+
+
+
+
 /*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/
+/*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/
+
 
 .bloco-message-1{
   flex: 1;
@@ -728,52 +891,58 @@ body{
   left: 2%;
 }
 
+.foto-Massage-1{
+  border-radius: 50%;
+}
+
+.foto-Massage-2{
+  border-radius: 50%;
+}
+
+.foto-Massage-3{
+  border-radius: 50%;
+}
+
+
 .textMessage1{
   position: absolute;
-  border: 1px solid black;
-  border-radius: 5px;
   top: 103px; 
-  left: 80px;
+  left: 90px;
+  font-size: 23px;
 }
 .textMessage2{
   position: absolute;
-  border: 1px solid black;
-  border-radius: 5px;
-  top: 198px; 
-  left: 80px;
+  top: 200px; 
+  left: 90px;
+  font-size: 23px;
 }
 .textMessage3{
   position: absolute;
-  border: 1px solid black;
-  border-radius: 5px;
-  top: 293px; 
-  left: 80px;
+  top: 295px; 
+  left: 90px;
+  font-size: 23px;
 }
 .textMessage4{
   position: absolute;
-  border: 1px solid black;
-  border-radius: 5px;
   top: 140px;
-  left: 80px;
+  left: 90px;
 }
 
 .textMessage5{
   position: absolute;
-  border: 1px solid black;
-  border-radius: 5px;
   top:  235px;
-  left: 80px;
+  left: 90px;
 }
 
 .textMessage6{
   position: absolute;
-  border: 1px solid black;
-  border-radius: 5px;
   top: 330px; 
-  left: 80px;
+  left: 90px;
 }
 
 /*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/
+/*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/
+
 
 .blocoMore-1 {
   border-radius: 50%;
@@ -918,14 +1087,16 @@ body{
   height: 78px;
   bottom: 480px;
 }
+.blocoMoreFoto{
+  border-radius: 50%;
+}
+
 
 .BlocoMoreText{
   position: absolute;
-  border: 1px solid black;
-  width: 32.3%;
-  border-radius: 5px;
-  left: 24%;
-  top: 40px;
+  left: 25%;
+  top: 31px;
+  font-size: 34px;
 }
 
 .setaDireita-1{
@@ -969,6 +1140,8 @@ body{
   top: 708px;
 }
 /*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/
+/*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/
+
 
 .textMore1{
   text-align: left;
@@ -1006,7 +1179,7 @@ body{
   top: 157px;
   text-align: left;
   text-decoration: none;
-  color: #000000;
+  color: black;
   position: absolute;
 }
 
@@ -1081,3 +1254,5 @@ body{
 }
 
 /*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/
+/*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/
+
