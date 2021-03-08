@@ -6,15 +6,12 @@ function onDeviceReady() {
     console.log('Running cordova-' + cordova.platformId + '@' + cordova.version);
     document.getElementById('deviceready').classList.add('ready');
 }
-$('.flex-child').slick({
+
+
+
+
+$('.fotoPerfil1').slick({
     fade: true,
-    speed: 300,
+    speed: 200,
+    dots: true,
 });
-
-$('.flex-child:first-child').slick({
-    fade: true,
-    speed: 300,
-});
-
-
-
