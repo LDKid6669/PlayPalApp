@@ -1,0 +1,998 @@
+body{
+    width: auto;
+    height:  auto;
+}
+
+.main{
+    margin: 0 auto;
+    width: auto;
+    position: fixed;
+}
+
+.header-1{
+    width: 100%;
+    position: fixed;
+    background-color: white;
+    top: 0;
+    left: 0;
+}
+
+.seetings ul li{
+    list-style: none;
+    float: left;
+}
+.settings{
+  position: absolute;
+  left: 85%;
+  height: 43px;
+  width: 43px;
+  background-color: white;
+  top: 1px;
+}
+
+.text-container{
+  width:100%;
+  position: absolute;
+  font-size: 35px;
+  text-align: justify;
+  background-color:rgb(255, 255, 255);
+  height: 50px;
+  left:8px;
+}
+
+/*FIM DO HEADER 1*/ /*FIM DO HEADER 1*/ /*FIM DO HEADER 1*/ /*FIM DO HEADER 1*/
+
+.header-2{
+  width: 100%;
+}
+.fotosbolas{
+  border-radius: 50%;
+}
+
+/*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/
+/*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/ /*FIM DO HEADER 2*/
+
+.header-3{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 7%;
+  width: 100%;
+  background-color: white;
+}
+
+.linha{ 
+  border: 1px solid #000000;
+}
+
+.text-container-1{
+  margin-bottom: 10px;
+  text-decoration-color: black;
+  text-align: left;
+}
+
+.text-1{
+  text-align: left;
+  font-size: 13.50px;
+  margin-left: 11px;
+  margin-top: 8px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.text-2{
+  margin-left: 83px;
+  margin-top: 8px;
+  font-size: 13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.text-3{
+  text-align: center;
+  margin-left: 177px;
+  margin-top: 8px;
+  font-size:13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.text-4{
+  margin-left: 250px;
+  margin-top: 8px;
+  font-size: 13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.text-5{
+  text-align: right;
+  right: 11px;
+  margin-top: 8px;
+  font-size: 13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.text-1-1{
+  text-align: left;
+  font-size: 13.50px;
+  margin-left: 11px;
+  margin-top: 6px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.text-2-2{
+  margin-left: 83px;
+  margin-top: 6px;
+  font-size: 13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.text-3-3{
+  text-align: center;
+  margin-left: 177px;
+  margin-top: 6px;
+  font-size:13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.text-4-4{
+  margin-left: 250px;
+  margin-top: 6px;
+  font-size: 13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+}
+.text-5-5{
+  text-align: right;
+  right: 11px;
+  margin-top: 6px;
+  font-size: 13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+
+.images-1{
+  align-items: left;
+  margin-left: 31px;
+  position: fixed;
+  background-color: transparent;
+}
+.images-2{
+  margin-left: 112px;
+  position: fixed;
+  background-color: transparent;
+}
+.images-3{
+  margin-left: 197px;
+  position: fixed;
+  background-color: transparent;
+}
+.images-4{
+  margin-left: 272px;
+  position: fixed;
+  background-color: transparent;
+}
+.images-5{
+  right: 18px;
+  position: fixed;
+  background-color: transparent;
+}
+
+/*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/
+/*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/ /*FIM DO HEADER 3*/
+
+.header-4{
+  width: 100%;
+  background-color:white;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.flex-child {
+  display: inline-block;
+  position: relative;
+  flex: 1;
+  border: 2px solid black;
+  border-radius: 6.5%;
+  width: 140px;
+  height: 270px;
+  top: -10px;
+}  
+
+.flex-child:first-child {
+  margin-right: 10px;
+} 
+
+.foto1{
+  border-top-left-radius:6.5% ;
+  border-top-right-radius: 6.5%;
+}
+
+/*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/
+/*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/ /*FIM DO HEADER 4*/
+
+.textM1{
+  text-align: left;
+  font-size: 13.50px;
+  margin-left: 11px;
+  margin-top: 20px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+}
+.textM2{
+  margin-left: 95px;
+  margin-top: 20px;
+  font-size: 13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+}
+.textM3{
+  text-align: center;
+  margin-left: 170px;
+  margin-top: 20px;
+  font-size:13.50px;
+  text-decoration: none;
+  color: #000000;
+  position: fixed;
+}
+.linhaUpcoming{
+  border: 1px solid #000000;
+  width: 17.5%;
+  margin-left: 9px;
+  margin-top: 3px;
+}
+
+
+.flex-meetings {
+  display: inline-block;
+  position: relative;
+  flex: 1;
+  border: 2px solid black;
+  border-radius: 6.5%;
+} 
+.flex-meetings:first-child {
+  margin-top: 10px;
+}
+
+.foto-meetings{
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+
+
+/*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/
+/*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/ /*FIM DO HEADER 5*/
+
+
+
+.bloco-message{
+  display: inline-block;
+  position: relative;
+  flex: 1;
+  border: 2px solid transparent;
+} 
+
+.foto-Massage-1{
+  border: 2px solid black;
+  border-radius: 50%;
+}
+
+/*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/
+/*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/ /*FIM DO HEADER 6*/
+
+
+.blocoMore-1 {
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+
+.BlocoMore{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 130px;
+}
+
+.blocoMore-2{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+.BlocoMore2{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 130px;
+}
+
+.blocoMore-3{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+ border: 2px solid transparent;
+}
+
+.BlocoMore3{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 130px;
+}
+
+.blocoMore-4{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+.BlocoMore4{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 195px;
+}
+
+.blocoMore-5{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+
+.BlocoMore5{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 195px;
+}
+
+.blocoMore-6{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+
+.BlocoMore6{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 255px;
+}
+
+.blocoMore-7{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+
+.BlocoMore7{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 255px;
+}
+
+.blocoMore-8{
+  border-radius: 50%;
+  display: inline-block;
+  width: 355px;
+  height: 60px;
+  border-radius: 8px;
+  border: 2px solid transparent;
+}
+
+.BlocoMore8{
+  position: relative;
+  width: 355px;
+  height: 60px;
+  top: 255px;
+}
+
+
+
+.blocoMoreFoto-1{
+  border-radius: 50%;
+  display: inline-block;
+  width: 78px;
+  height: 78px;
+  border: 2px solid #e6e5e5;
+  background-color: rgb(190, 190, 190);
+  position: absolute;
+}
+.BlocoMore-foto{
+  position: relative;
+  width: 78px;
+  height: 78px;
+  bottom: 480px;
+}
+.blocoMoreFoto{
+  border-radius: 50%;
+}
+
+
+.BlocoMoreText{
+  position: absolute;
+  left: 25%;
+  top: 31px;
+  font-size: 34px;
+  font-family: Verdana, sans-serif
+}
+
+.setaDireita-1{
+  position: absolute;
+  left: 90%;
+  top: 159px;
+}
+.setaDireita-2{
+  position: absolute;
+  left: 90%;
+  top: 217px;
+}
+.setaDireita-3{
+  position: absolute;
+  left: 90%;
+  top: 281px;
+}
+.setaDireita-4{
+  position: absolute;
+  left: 90%;
+  top: 402px;
+}
+.setaDireita-5{
+  position: absolute;
+  left: 90%;
+  top: 462px;
+}
+.setaDireita-6{
+  position: absolute;
+  left: 90%;
+  top: 586px;
+}
+.setaDireita-7{
+  position: absolute;
+  left: 90%;
+  top: 647px;
+}
+.setaDireita-8{
+  position: absolute;
+  left: 90%;
+  top: 708px;
+}
+.setaDireita-9{
+  position: absolute;
+  left: 90%;
+  top: 820px;
+}
+.setaDireita-10{
+  position: absolute;
+  left: 90%;
+  top: 878px;
+}
+/*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/
+/*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/ /*FIM DO HEADER 7*/
+
+
+.textMore1{
+  text-align: left;
+  font-size: 16px;
+  margin-left: 5px;
+  top: 123px;
+  text-decoration: none;
+  color: #000000;
+  position: absolute; 
+}
+
+.textMore2{
+  text-align: left;
+  font-size: 16px;
+  margin-left: 5px;
+  top: 355px;
+  text-decoration: none;
+  color: #000000;
+  position: absolute; 
+}
+
+.textMore3{
+  text-align: left;
+  font-size: 16px;
+  margin-left: 5px;
+  top: 540px;
+  text-decoration: none;
+  color: #000000;
+  position: absolute; 
+}
+
+.textMore4{
+  text-align: left;
+  font-size: 16px;
+  margin-left: 5px;
+  top: 780px;
+  text-decoration: none;
+  color: #000000;
+  position: absolute; 
+}
+
+
+.Profile{
+  margin-left: 5%;
+  font-size: 25px;
+  top: 165px;
+  text-align: left;
+  text-decoration: none;
+  color: black;
+  position: absolute;
+}
+
+.Payments{
+  margin-left: 5%;
+  font-size: 25px;
+  top: 217px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.Notifications{
+  margin-left: 5%;
+  font-size: 25px;
+  top: 277px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.Saved{
+  margin-left: 5%;
+  font-size: 25px;
+  top: 401px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.My-experiences{
+  margin-left: 5%;
+  font-size: 25px;
+  top: 461px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.How-it-works{
+  margin-left: 5%;
+  font-size: 25px;
+  top: 585px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.Security{
+  margin-left: 5%;
+  font-size: 25px;
+  top: 645px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.Contact-us{
+  margin-left: 5%;
+  font-size: 25px;
+  top: 707px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.Terms-os-service{
+  margin-left: 5%;
+  font-size: 25px;
+  top: 824px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.Privacy-policy{
+  margin-left: 5%;
+  font-size: 25px;
+  top: 880px;
+  text-align: left;
+  text-decoration: none;
+  color: #000000;
+  position: absolute;
+}
+
+.Sing-Out{
+  margin-left: 30%;
+  font-size: 35px;
+  bottom: -420px;
+  position: relative;
+  width: 60%;
+  height: 130px;
+}
+
+/*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/
+/*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/ /*FIM DO HEADER 8*/
+
+.header-9{
+  width: 100%;
+  height: auto;
+  overflow: scroll;
+}
+
+.body-perfis{
+  margin: 0px;
+  overflow: scroll;
+}
+.fotoPerfil{
+  width: 100%;
+  height: 100%;
+}
+
+button.slick-prev{
+  font-size: 0px;
+  border: none;;
+  position: absolute;
+}
+button.slick-next{
+  font-size: 0px;
+  border: none;
+  position: absolute;
+  right: 0;
+}
+.slick-dots li button{
+  font-size: 0px;
+  border: 4px solid rgb(66, 65, 65);
+  width: 10px;
+  height: 20px;
+  background-color: transparent;
+  border-radius: 50%;
+  z-index: 1000;
+}
+.slick-dots{
+  margin: 0 auto;
+  width: 50%;
+  position: absolute;
+  left: 24%;
+  top: 400px;
+  z-index: 1000;
+}
+li.slick-active button{
+  background-color: rgb(106, 170, 164);
+  z-index: 1000;
+}
+.slick-dots li{
+  display: inline-block;
+  z-index: 1000;
+}
+
+
+.NomePerfil{
+  position: absolute;
+  left: 8px;
+  top: 415px; 
+  font-size: 30px;
+}
+.LocalizaçãoPerfil{
+  position: absolute;
+  font-size: 18px;
+  top: 437px;
+  left: 75%;
+}
+
+.blocoPerfil1{
+  border-radius: 30%;
+  display: inline-block;
+  height: 40px;
+  width: 110px;
+  border: 2px solid #000000;
+  position: absolute;
+}
+.blocoPerfil1{
+  top: 485px;
+  left: 8px;
+}
+
+.blocoPerfil2{
+  border-radius: 30%;
+  display: inline-block;
+  height: 40px;
+  width: 110px;
+  border: 2px solid #000000;
+  position: absolute;
+}
+.blocoPerfil2{
+  top: 485px;
+  left: 130px;
+}
+
+.blocoPerfil3{
+  border-radius: 30%;
+  display: inline-block;
+  height: 40px;
+  width: 110px;
+  border: 2px solid #000000;
+  position: absolute;
+}
+.blocoPerfil3{
+  top: 485px;
+  left: 252px;
+}
+
+
+.About{
+  position: absolute;
+  left: 8px;
+  top: 522px; 
+  font-size: 22px;
+}
+.AboutText{
+  position: absolute;
+  left: 10px;
+  top: 552px; 
+  font-size: 20px;
+}
+
+.Interests{
+  position: absolute;
+  left: 8px;
+  top: 613px; 
+  font-size: 24px;
+}
+
+.blocoPerfil4{
+  border-radius: 30%;
+  display: inline-block;
+  height: 40px;
+  width: 110px;
+  border: 2px solid #000000;
+  position: absolute;
+}
+.blocoPerfil4{
+  top: 672px;
+  left: 8px;
+}
+.blocoPerfil5{
+  border-radius: 30%;
+  display: inline-block;
+  height: 40px;
+  width: 110px;
+  border: 2px solid #000000;
+  position: absolute;
+}
+.blocoPerfil5{
+  top: 672px;
+  left: 132px;
+}
+.blocoPerfil6{
+  border-radius: 30%;
+  display: inline-block;
+  height: 40px;
+  width: 110px;
+  border: 2px solid #000000;
+  position: absolute;
+}
+.blocoPerfil6{
+  top: 672px;
+  left: 252px;
+}
+
+.Experiences1{
+  position: absolute;
+  left: 8px;
+  top: 705px; 
+  font-size: 24px;
+}
+
+
+.BlocoPerfil1{
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 6.5%;
+    width: 170px;
+    height: 270px;
+    position: absolute;
+    top: 770px;
+    left: 8px;
+}
+
+.BlocoPerfil2{
+  display: inline-block;
+  border: 2px solid black;
+  border-radius: 6.5%;
+  width: 170px;
+  height: 270px;
+  position: absolute;
+  top: 770px;
+  left: 51%;
+}
+
+.CORAÇÃO1{
+  position: absolute;
+  top: 1000px;
+  left: 37%;
+}
+
+.CORAÇÃO2{
+  position: absolute;
+  top: 1000px;
+  left: 37%;
+}
+
+.CORAÇÃO3{
+  position: absolute;
+  top: 1000px;
+  left: 86%;
+}
+
+.CORAÇÃO4{
+  position: absolute;
+  top: 1000px;
+  left: 86%;
+}
+
+.ExperiencesText13{
+  position: absolute;
+  top: 930px;
+  left: 3.5%;
+}
+.ExperiencesText14{
+  position: absolute;
+  top: 930px;
+  left: 53%;
+}
+.ExperiencesText15{
+  position: absolute;
+  top: 1020px;
+  left: 3.5%;
+}
+.ExperiencesText16{
+  position: absolute;
+  top: 1020px;
+  left: 53%;
+  height: 200px;
+}
+.ExperiencesText17{
+  position: absolute;
+  top: 990px;
+  left: 9%; 
+  height: 200px;
+}
+.ExperiencesText18{
+  position: absolute;
+  top: 990px;
+  left: 58%; 
+}
+
+.estrela-5{
+  position: absolute;
+  left: 3%;
+  top: 990px;
+}
+.estrela-6{
+  position: absolute;
+  left: 52%;
+  top: 990px;
+}
+
+.estrela-amarela{
+  position: absolute;
+  left: 4%;
+  top: 493px;
+}
+.insta{
+  position: absolute;
+  left: 36%;
+  top: 494px;
+}
+.face{
+  position: absolute;
+  left: 69%;
+  top: 494px;
+}
+
+
+.estrela{
+  position: absolute;
+  left: 13%;
+  top: 499px;
+}
+.instagram{
+  position: absolute;
+  left: 44%;
+  top: 498px;
+}
+.facebook{
+  position: absolute;
+  left: 77%;
+  top: 498px;
+}
+
+.karateicon{
+  position: absolute;
+  left: 4.5%;
+  top: 685px;
+}
+.coffeicon{
+  position: absolute;
+  left: 38%;
+  top: 680px;
+}
+.eatingicon{
+  position: absolute;
+  left: 70%;
+  top: 682px;
+}
+
+.karate{
+  position: absolute;
+  left: 13%;
+  top: 685px;
+}
+.coffe{
+  position: absolute;
+  left: 47%;
+  top: 685px;
+}
+.eating{
+  position: absolute;
+  left: 78%;
+  top: 685px;
+}
+
+
+/*FIM DO HEADER 9*/ /*FIM DO HEADER 9*/ /*FIM DO HEADER 9*/ /*FIM DO HEADER 9*/
+/*FIM DO HEADER 9*/ /*FIM DO HEADER 9*/ /*FIM DO HEADER 9*/ /*FIM DO HEADER 9*/
